@@ -1,0 +1,32 @@
+function skillsMember() {
+    var member = document.getElementById("member");
+    var memberValue = member.options[member.selectedIndex].value;
+    var memberText = member.options[member.selectedIndex].text;
+    var memberSkills = document.getElementById("memberSkills");
+    var memberSkillsValue = memberSkills.options[memberSkills.selectedIndex].value;
+    var memberSkillsText = memberSkills.options[memberSkills.selectedIndex].text;
+    var memberSkillsArray = [];
+    var memberSkillsArrayText = [];
+    var memberSkillsArrayValue = [];
+    var memberSkillsArrayTextValue = [];
+    var memberSkillsArrayTextValueArray = [];
+    var memberSkillsArrayTextValueArrayText = [];
+    var memberSkillsArrayTextValueArrayValue = [];
+    var memberSkillsArrayTextValueArrayValueText = [];
+    var memberSkillsArrayTextValueArrayValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueValueValueText = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueValueValueValue = [];
+    var memberSkillsArrayTextValueArrayValueValueValueValueValueValueValueValueValueText = [];
+    var memberSkillsArrayTextVal
